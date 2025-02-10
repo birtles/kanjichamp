@@ -1244,10 +1244,10 @@
     "@babel/helper-string-parser" "^7.25.9"
     "@babel/helper-validator-identifier" "^7.25.9"
 
-"@birchill/bugsnag-zero@0.7.0":
-  version "0.7.0"
-  resolved "https://registry.yarnpkg.com/@birchill/bugsnag-zero/-/bugsnag-zero-0.7.0.tgz#60da3cb816de8e92f2509f7d530419edc4469345"
-  integrity sha512-2f7tlX/5ison9BIDrPB+cRnOr5f1ik7llcVCVeIM7y/bxBLkSnubc4iIGZnOKXaXuEIC3ZMf40iXsCecPYXTLA==
+"@birchill/bugsnag-zero@0.7.1":
+  version "0.7.1"
+  resolved "https://registry.yarnpkg.com/@birchill/bugsnag-zero/-/bugsnag-zero-0.7.1.tgz#9665659fcc8514dbb2fcffa198ba31f411d2c703"
+  integrity sha512-Fk575RP349peS9caicli857kbA5E6cF2SCQAR9MJLDP0pTg8KjxiBFp+xJsq1yaJLmtSzHpRRMTH59eaQJ9MOg==
 
 "@birchill/jpdict-idb@^2.3.1":
   version "2.6.1"
